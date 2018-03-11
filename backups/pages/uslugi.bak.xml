@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 25 Jun 2016 12:11:39 +0300</pubDate><title><![CDATA[Услуги]]></title><url><![CDATA[uslugi]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Услуги]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
+                    &lt;h1&gt;Услуги&lt;/h1&gt;
+&lt;div class=\&quot;text-services\&quot;&gt;
+&lt;ul class=\&quot;services-list\&quot;&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/razrabotka\&quot; title=\&quot;\&quot;&gt;
+             &lt;i class=\&quot;fa fa-wrench\&quot;&gt;&lt;/i&gt;
+            &lt;h2&gt;Разработка сайтов&lt;/h2&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/poddergka\&quot; title=\&quot;\&quot;&gt;
+            &lt;i class=\&quot;fa fa-cogs\&quot;&gt;&lt;/i&gt;
+&lt;h2&gt;Поддержка сайтов&lt;/h2&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/roskrutka\&quot; title=\&quot;\&quot;&gt;
+            &lt;i class=\&quot;fa fa-rocket\&quot;&gt;&lt;/i&gt;
+&lt;h2&gt;Раскрутка web сайтов&lt;/h2&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt; 
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[10]]></menuOrder></item>

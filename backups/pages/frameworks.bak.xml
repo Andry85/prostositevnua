@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 13:57:08 +0300</pubDate><title><![CDATA[Фреймворки]]></title><url><![CDATA[frameworks]]></url><meta><![CDATA[Фреймворки]]></meta><metad><![CDATA[Верстка под Twitter Bootstrap]]></metad><menu><![CDATA[Фреймворки]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Фреймворки&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/twitter_bootstrap.jpg&quot; alt=&quot;Адаптивная верстка сайта&quot; title=&quot;Адаптивная верстка&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;h2&gt;Верстка под Twitter Bootstrap&lt;/h2&gt;
+                                    &lt;p&gt;Мы предлагаем вам верстку сайтов под знаменитый в мире web разработки фреймворк Twitter Bootstrap. Этот фреймворк стал своеобразным стандартом в разработки сайтов, он облегчил и ускорил процесс создания страниц. &lt;/p&gt;
+&lt;p&gt;Bootstrap хорошо продуман и использует 12 колоночную сетку, что позволяет легко манипулировать элементами сайта и дает возможность делать адаптивную верстку быстро и легко.&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[12]]></menuOrder></item>

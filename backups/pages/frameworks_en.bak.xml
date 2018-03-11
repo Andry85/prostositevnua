@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 13:57:14 +0300</pubDate><title><![CDATA[Frameworks]]></title><url><![CDATA[frameworks_en]]></url><meta><![CDATA[Frameworks]]></meta><metad><![CDATA[Layout by Twitter Bootstrap]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Frameworks&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/twitter_bootstrap.jpg&quot; alt=&quot;Responsive layout of the website&quot; title=&quot;Responsive layout&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;h2&gt;Layout by Twitter Bootstrap&lt;/h2&gt;
+                                    &lt;p&gt;We offer you a layout for the famous sites in the world of web development framework Twitter Bootstrap. This framework has become a kind of standard in the development of sites, it will facilitate and accelerate the process of creating pages.&lt;/p&gt;
+&lt;p&gt;Bootstrap well laid out and uses the 12 column grid, making it easy to manipulate the elements of the site and makes it possible to do an adaptive layout quickly and easily. &lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

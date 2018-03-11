@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /*gclid
+Disallow: /*openstat
+Disallow: /*utm
+Disallow: /portfolio/
+
+Sitemap: http://www.prostosite.vn.ua/sitemap.xml

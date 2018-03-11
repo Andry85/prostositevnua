@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 29 May 2015 16:43:37 +0000</pubDate><title><![CDATA[Responsive]]></title><url><![CDATA[responsive_en]]></url><meta><![CDATA[Responsive layout of the website]]></meta><metad><![CDATA[Making responsive layout site]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Frameworks&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+&lt;img src=&quot;theme/general/uploads/adapt.jpg&quot; alt=&quot;Responsive layout site&quot; title=&quot;Responsivelayout&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;h2&gt;Responsive layout site&lt;/h2&gt;
+                                    &lt;p&gt;&lt;strong&gt;Responsive layout of the website&lt;/strong&gt; - this is a common layout, plus a built-in stylesmedia queries in which your site will look good on your PC and on your tablet or mobile phone.&lt;/p&gt;
+&lt;p&gt;Previously, the mobile version does a completely different site, but recently there was a technology called (Responsive Design), and using it can be done at one site so that it works on all devices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsive layout  of the website&lt;/strong&gt; - it is a great alternative to the rubber as rubber structure of the site is mainly suitable for PC and is not suitable for other digital devices.&lt;/p&gt;
+&lt;p&gt;Example - responsive layout css: &lt;a href=&quot;http://htmlverstka.biz/portfolioverstka/agel-html/&quot; rel=&quot;nofollow&quot; title=&quot;responsive layout site&quot;&gt;agel&lt;/a&gt;&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

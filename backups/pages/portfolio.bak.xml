@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 01 Dec 2015 14:18:24 +0200</pubDate><title><![CDATA[Портфоліо]]></title><url><![CDATA[portfolio]]></url><meta><![CDATA[Роботи Простосайт]]></meta><metad><![CDATA[Роботи які ми зробили]]></metad><menu><![CDATA[Портфоліо]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
+                    &lt;h1&gt;Портфоліо&lt;/h1&gt;
+                    &lt;ul class=\&quot;product-list wow zoomIn\&quot;&gt;
+                        &lt;li&gt;
+                            &lt;figure&gt;
+                                &lt;img src=\&quot;/theme/general/uploads/01.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;h2&gt;Секрети краси&lt;/h2&gt;
+                            &lt;p&gt; Секрети краси - журнал для жінок.&lt;/p&gt;
+                            &lt;a class=\&quot;read-more\&quot; href=\&quot;ladytoday\&quot; title=\&quot;\&quot;&gt;Читати Далі&lt;/a&gt;
+                        &lt;/li&gt;
+						&lt;li&gt;
+                            &lt;figure&gt;
+                                &lt;img src=\&quot;/theme/general/uploads/02.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;h2&gt;htmlverstka&lt;/h2&gt;
+                            &lt;p&gt;Професійна html верстка сайтів &lt;/p&gt;
+                            &lt;a class=\&quot;read-more\&quot; href=\&quot;htmlverstka\&quot; title=\&quot;\&quot;&gt;Читати Далі&lt;/a&gt;
+                        &lt;/li&gt;
+						&lt;li&gt;
+                            &lt;figure&gt;
+                                &lt;img src=\&quot;/theme/general/uploads/03.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;h2&gt;bigfoto&lt;/h2&gt;
+                            &lt;p&gt;bigfoto.in.ua - фотографії високої якості&lt;/p&gt;
+                            &lt;a class=\&quot;read-more\&quot; href=\&quot;bigfoto\&quot; title=\&quot;\&quot;&gt;Читати Далі&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[9]]></menuOrder></item>

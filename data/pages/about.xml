@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 26 Jun 2016 10:26:56 +0300</pubDate><title><![CDATA[О нас]]></title><url><![CDATA[about]]></url><meta><![CDATA[О Простосайт]]></meta><metad><![CDATA[Простосайт - информация о нашей компании]]></metad><menu><![CDATA[О нас]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
+                    &lt;h1&gt;О нас&lt;/h1&gt;
+                    &lt;article class=\&quot;text-inner\&quot;&gt;
+                        &lt;figure&gt;
+                            &lt;img src=\&quot;/theme/general/uploads/about.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
+                        &lt;/figure&gt;
+                        &lt;div class=\&quot;text-inside\&quot;&gt;
+                            &lt;div class=\&quot;text-inside-inner\&quot;&gt;
+	&lt;p&gt;Наша команда - это небольшой коллектив, разбросанный по всей Украине с главным офисом в Виннице. У каждого нашего специалиста есть большой опыт в создании качественных веб сайтов.&lt;/p&gt;
+&lt;p&gt;Цель нашей команды - обеспечить возможность владеть своим сайтом каждому человеку или компании по доступной цене.&lt;/p&gt;
+&lt;p&gt;В нашей работе мы надеемся, что качественный один сайт сделан душой для нашего клиента, принесет ему отдачу и удовольствие, а нам рекомендацию.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/article&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[8]]></menuOrder></item>

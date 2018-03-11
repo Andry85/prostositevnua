@@ -1,0 +1,73 @@
+Version 0.0.3
+
+- replaced "Simple Contact" and "simple-contact" everywhere to "Simple-C",
+    "simple-c" and the alike, to avoid confusion with a pre-existing
+    plugin already named "simple-contact". Makes no big difference under the
+    light of the "FormSimple" perspective (see "CREDITS.txt"), but I wanted to 
+    clear up this conflict
+
+- moved the link to these informative files from the plugins' page to the
+    bottom of the settings page to avoid unneeded clutter
+
+- nothing really more than this, bye bye Simple-C!
+
+Version 0.0.2:
+- added appropriate links to download the latest version and get to the forum
+
+- renamed admin_email() to simple_contact_default_email() and made unset_r()
+    a member of SimpleContact to avoid conflict with any existing p01-contact 
+    installation, also renamed all defined constants
+
+Version 0.0.1:
+- changed the tag intro from "contact" to "simplec" in order to avoid conflict 
+    with any existing p01-contact installation
+
+- allowed for language selection on a per-form basis using the 
+    "formlang = XX" marker, where "XX" is either a 2-letter language code as
+    "it" or "de", or a 5-letter language code such as "en_US" or "fr_FR";
+    if "en" is used, it points to "en_US". In order for this to correctly work,
+    the "formlang" parameter must be the first one right after the "simplec" tag
+    intro marker.
+
+- the default form settings now get appended to the per-form settings, whereas
+    the original version completely replaced the default form settings with
+    the per-form settings, where specified
+
+- fixed admin_email() function to retrieve data from GSUSERSPATH instead of 
+    GSDATAOTHERPATH
+
+- added .htaccess in /simple-contact as per plugin development guidelines
+
+- several code conversions (mainly, all conditionals and loops now use brackets,
+     even if the are one-liners)
+
+- reformatted the whole code to fit to my customs (the first bracket does not 
+    take a line on its own any more and indent is now 2 spaces instead of 4)
+
+- added this changelog.txt file
+
+- added the credits.txt file
+
+- added the license.txt file
+
+- added the readme.txt file
+
+- converted the language management as required by 
+    http://get-simple.info/wiki/plugins:i18n
+
+-- you can now use http://get-simple.info/extend/plugin/translate/112/ to 
+    translate this plugin, feel free to do so and share your translations!
+
+-- it is normal for the plugin above to find zero strings in the code as this 
+    uses centralized lang() functions in the code
+
+-- converted the lang() functions to use the builtin GetSimple i18n_r() function
+
+-- added .htaccess in /simple-contact/lang
+
+-- renamed the language array(s) from $p01contact_lang to $i18n
+
+-- moved all languages' credits to the credits.txt file, since language files 
+    are going to be processed by other plugins which do not support comments
+
+[end of changelog.txt]

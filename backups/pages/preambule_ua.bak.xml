@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 25 Jun 2016 10:33:17 +0300</pubDate><title><![CDATA[preambule_ua]]></title><url><![CDATA[preambule_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=\&quot;title\&quot;&gt;
+&lt;div class=\&quot;slogan\&quot;&gt;Зробимо &lt;b&gt;Вашу&lt;/b&gt; компанію впізнаваною за &lt;span&gt;10&lt;/span&gt; днів,&lt;br/&gt; шляхом розробки &lt;span&gt;унікального&lt;/span&gt; веб сайту.&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul class=\&quot;services-list\&quot;&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/razrabotka\&quot; title=\&quot;\&quot;&gt;
+             &lt;i class=\&quot;fa fa-wrench\&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;h2&gt;Розробка сайтів&lt;/h2&gt;
+        &lt;p&gt;Конструюємо кращі рішення для вашого бізнесу. Landing Page, Сайт-візитка та інші пропозиції для вас.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/poddergka\&quot; title=\&quot;\&quot;&gt;
+            &lt;i class=\&quot;fa fa-cogs\&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;h2&gt;Підтримка сайтів&lt;/h2&gt;
+        &lt;p&gt;Надаємо для наших клієнтів технічну і інформаційну підтримку сайтів.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/roskrutka\&quot; title=\&quot;\&quot;&gt;
+            &lt;i class=\&quot;fa fa-rocket\&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;h2&gt;Розкрутка web сайтів&lt;/h2&gt;
+        &lt;p&gt;Просування інтернет сайтів в пошукових системах google, яндекс.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

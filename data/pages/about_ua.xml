@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 26 Jun 2016 10:25:09 +0300</pubDate><title><![CDATA[Про нас]]></title><url><![CDATA[about_ua]]></url><meta><![CDATA[Про Простосайт]]></meta><metad><![CDATA[Простосайт - інформація про нашу компанію]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
+                    &lt;h1&gt;Про нас&lt;/h1&gt;
+                    &lt;article class=\&quot;text-inner\&quot;&gt;
+                        &lt;figure&gt;
+                            &lt;img src=\&quot;/theme/general/uploads/about.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
+                        &lt;/figure&gt;
+                        &lt;div class=\&quot;text-inside\&quot;&gt;
+                            &lt;div class=\&quot;text-inside-inner\&quot;&gt;
+	&lt;p&gt;Наша команда - це невеликий колектив, розкиданий по всій Україні з головним офісом у Вінниці. У кожного нашого спеціаліста є великий досвід в створенні якісних веб сайтів.&lt;/p&gt;
+&lt;p&gt;Мета нашої команди - забезпечити можливість володіти своїм сайтом кожній людині чи компанії за доступною вартістю. &lt;/p&gt;
+&lt;p&gt;В нашій роботі ми сподіваємось, що якісний один сайт зроблений душею для нашого клієнта, принесе йому віддачу і задоволення, а нам рекомендацію.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/article&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

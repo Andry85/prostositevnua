@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 21 Jun 2016 08:14:50 +0300</pubDate><title><![CDATA[footertext_ua]]></title><url><![CDATA[footertext_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=\&quot;macromedia\&quot;&gt;
+				&lt;div itemscope itemtype=\&quot;http://schema.org/Organization\&quot;&gt;
+				  &lt;span itemprop=\&quot;name\&quot;&gt;Prostosait.com.ua&lt;/span&gt;
+				Контактна інформація:
+				  &lt;div itemprop=\&quot;address\&quot; itemscope itemtype=\&quot;http://schema.org/PostalAddress\&quot;&gt;
+				    Адрес:
+				      &lt;span itemprop=\&quot;streetAddress\&quot;&gt;вулиця 600-річчя, 66-A.&lt;/span&gt;
+				      &lt;span itemprop=\&quot;postalCode\&quot;&gt;21027&lt;/span&gt;
+				      &lt;span itemprop=\&quot;addressLocality\&quot;&gt;Вінниця, Україна&lt;/span&gt;
+				    ,
+				  &lt;/div&gt;
+				    Телефон:&lt;span itemprop=\&quot;telephone\&quot;&gt;(063)-857-63-92&lt;/span&gt;,
+				    E-mail: &lt;span itemprop=\&quot;email\&quot;&gt;admin@prostosait.com.ua&lt;/span&gt;
+				&lt;/div&gt;
+
+		&lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

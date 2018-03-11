@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 09 Jun 2015 09:12:50 +0300</pubDate><title><![CDATA[preambule]]></title><url><![CDATA[preambule_en]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;title&quot;&gt;
+    &lt;h1&gt;HTML layout of sites of &lt;span&gt;any&lt;/span&gt; complexity&lt;/h1&gt;
+&lt;/div&gt;
+&lt;ul class=&quot;services-list&quot;&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;responsive&quot; title=&quot;&quot;&gt;
+            &lt;i class=&quot;fa fa-desktop&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;h2&gt;Responsive&lt;/h2&gt;
+        &lt;p&gt;Modern web page layout type in which the sites look great on most devices.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;frameworks&quot; title=&quot;&quot;&gt;
+            &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;h2&gt;Frameworks&lt;/h2&gt;
+        &lt;p&gt;We do the layout on the twitter bootstrap framework, and its analogues.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;a2zsignals&quot; title=&quot;&quot;&gt;
+            &lt;i class=&quot;fa fa-rocket&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;h2&gt;Ready to use&lt;/h2&gt;
+        &lt;p&gt;Our last project, over it we worked long and hard. We hope you enjoy it.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 25 Jun 2016 12:24:10 +0300</pubDate><title><![CDATA[Послуги (ua)]]></title><url><![CDATA[uslugi_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Послуги]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
+                    &lt;h1&gt;Послуги&lt;/h1&gt;
+&lt;div class=\&quot;text-services\&quot;&gt;
+&lt;ul class=\&quot;services-list\&quot;&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/razrabotka\&quot; title=\&quot;\&quot;&gt;
+             &lt;i class=\&quot;fa fa-wrench\&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+&lt;h2&gt;&lt;a href=\&quot;uslugi/razrabotka\&quot; title=\&quot;\&quot;&gt;Розробка сайтів&lt;/a&gt;&lt;/h2&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/poddergka\&quot; title=\&quot;\&quot;&gt;
+            &lt;i class=\&quot;fa fa-cogs\&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+&lt;h2&gt;&lt;a href=\&quot;uslugi/poddergka\&quot; title=\&quot;\&quot;&gt;Підтримка сайтів&lt;/a&gt;&lt;/h2&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=\&quot;uslugi/roskrutka\&quot; title=\&quot;\&quot;&gt;
+            &lt;i class=\&quot;fa fa-rocket\&quot;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+&lt;h2&gt; &lt;a href=\&quot;uslugi/roskrutka\&quot; title=\&quot;\&quot;&gt;Розкрутка web сайтів&lt;/a&gt;&lt;/h2&gt;
+
+    &lt;/li&gt;
+&lt;/ul&gt; 
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private></item>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 27 Dec 2016 10:57:14 +0200</pubDate><title><![CDATA[Портфоліо]]></title><url><![CDATA[works_ua]]></url><meta><![CDATA[Роботи Простосайт]]></meta><metad><![CDATA[Роботи які ми зробили]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Портфоліо&lt;/h1&gt;
+                    &lt;ul class=&quot;product-list wow zoomIn&quot;&gt;
+
+&lt;li&gt;
+                            &lt;figure&gt;
+                                &lt;img src=&quot;/theme/general/uploads/opt-small.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;h2&gt;optvodka.com.ua&lt;/h2&gt;
+                            &lt;p&gt;Opt Vodka - Офіційний дилер в Україні&lt;/p&gt;
+                            &lt;a class=&quot;read-more&quot; href=&quot;optvodka&quot; title=&quot;&quot;&gt;Читати далі&lt;/a&gt;
+                        &lt;/li&gt;
+&lt;li&gt;
+                            &lt;figure&gt;
+                                &lt;img src=&quot;/theme/general/uploads/2nf-small.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;h2&gt;2nf.com.ua&lt;/h2&gt;
+                            &lt;p&gt;МУРОВАНОКУРИЛІВЕЦЬКИЙ ЦЕГЕЛЬНИЙ ЗАВОД&lt;/p&gt;
+                            &lt;a class=&quot;read-more&quot; href=&quot;2nf&quot; title=&quot;&quot;&gt;Читати далі&lt;/a&gt;
+                        &lt;/li&gt;
+                     
+                        &lt;li&gt;
+                            &lt;figure&gt;
+                                &lt;img src=&quot;/theme/general/uploads/02.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;h2&gt;htmlverstka&lt;/h2&gt;
+                            &lt;p&gt;Професійна html верстка сайтів&lt;/p&gt;
+                            &lt;a class=&quot;read-more&quot; href=&quot;htmlverstka&quot; title=&quot;&quot;&gt;Читати далі&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

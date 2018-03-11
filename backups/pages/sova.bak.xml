@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 09 Jan 2016 11:25:49 +0200</pubDate><title><![CDATA[sova]]></title><url><![CDATA[sova]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
+                    &lt;h1&gt;Ladytoday&lt;/h1&gt;
+                    &lt;div class=\&quot;product-wrap\&quot;&gt;
+                            &lt;figure class=\&quot;product-pic\&quot;&gt;
+                                &lt;img src=\&quot;/theme/general/uploads/01-big.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=\&quot;product-info\&quot;&gt;
+                                &lt;div class=\&quot;product-info-inner\&quot;&gt;                                  
+                                &lt;ul class=\&quot;portfolio-inner-list\&quot;&gt;
+                                &lt;li&gt;
+                                    &lt;b&gt;Клиент::&lt;/b&gt;
+                                    &lt;span&gt;ladytoday&lt;/span&gt;
+                                &lt;/li&gt;
+                                &lt;li&gt;
+                                    &lt;b&gt;Дата:&lt;/b&gt;
+                                    &lt;span&gt;10/03/2014&lt;/span&gt;
+                                &lt;/li&gt;
+                                &lt;li&gt;
+                                    &lt;b&gt;Информация:&lt;/b&gt;
+                                    &lt;span&gt;Секреты красоты - журнал для женщин.&lt;/span&gt;
+                                &lt;/li&gt;
+                                  &lt;li&gt;&lt;a rel=\&quot;nofollow\&quot; target=\&quot;_blank\&quot; href=\&quot;http://ladytoday.ru/\&quot; title=\&quot;Посмотреть проект\&quot;&gt;Посмотреть проект&lt;/a&gt; &lt;/li&gt;
+                            &lt;/ul&gt;
+                                    &lt;p&gt;Секреты красоты - журнал для женщин, как похудеть без диет, здоровый образ жизни.&lt;/p&gt;
+                                    &lt;p&gt;Сайт разработан на CMS Wordpress.&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

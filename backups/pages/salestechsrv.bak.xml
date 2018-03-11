@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 13:57:32 +0300</pubDate><title><![CDATA[salestechsrv]]></title><url><![CDATA[salestechsrv]]></url><meta><![CDATA[salestechsrv]]></meta><metad><![CDATA[Salestech компания по поиску работников]]></metad><menu><![CDATA[salestechsrv]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Salestech&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/03-big.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Клиент:&lt;/b&gt;
+                                            &lt;span&gt;optionrally&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Дата:&lt;/b&gt;
+                                            &lt;span&gt;10/08/2014&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Информация:&lt;/b&gt;
+                                            &lt;span&gt;Salestech компания по поиску работников&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.salestechsrv.com/&quot; title=&quot;&quot;&gt;Посмотреть проект&lt;/a&gt;&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                    &lt;p&gt; Фирма Salestechsrv занимается поиском работников для ведущих компаний мира.&lt;/p&gt;
+                                    &lt;p&gt;Верстка сайта сделана с javascript эффектами и адаптивностью, что позволяет быть сайту универсальному для многих устройств.&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[10]]></menuOrder></item>

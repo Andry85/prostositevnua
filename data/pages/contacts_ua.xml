@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 23 Dec 2016 14:04:21 +0200</pubDate><title><![CDATA[Контакти]]></title><url><![CDATA[contacts_ua]]></url><meta><![CDATA[Контакти простосайт]]></meta><metad><![CDATA[Контакти простосайт 068-328-85-41]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Контакти&lt;/h1&gt;
+                    &lt;div class=&quot;contacts&quot;&gt;
+            &lt;!--           
+ &lt;div class=&quot;map-outer&quot;&gt;
+                            &lt;div class=&quot;map&quot;&gt;
+                                &lt;div id=&quot;map&quot;&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+--&gt;
+                        &lt;div class=&quot;contact-inner&quot;&gt;
+                            &lt;div class=&quot;contact-info&quot;&gt;
+
+&lt;div class=&quot;contactPic&quot;&gt;
+	&lt;figure&gt;
+		&lt;img src=&quot;/theme/general/uploads/myfoto.png&quot;&gt;
+	&lt;/figure&gt;
+	&lt;h3&gt;Андрій&lt;/h3&gt;
+	&lt;p&gt;Якщо у вас є питання, задавайте їх в форму зворотного зв&#039;язку або за контактами які знаходяться нижче.&lt;/p&gt;
+&lt;/div&gt;
+
+                                &lt;h2&gt;Контактна інформація&lt;/h2&gt;
+                                &lt;ul class=&quot;contact-list&quot;&gt;
+                                    
+
+
+&lt;!--&lt;li&gt;&lt;i class=&quot;fa fa-map-marker&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;Адреса: Вінниця, вулиця 600-річчя, 66-A.&lt;/li&gt;--&gt;
+&lt;li&gt;&lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailto:prostosaitcomua@gmail.com&quot; rel=&quot;nofollow&quot; title=&quot;prostosite.vn.ua@gmail.com&quot;&gt;prostosite.vn.ua@gmail.com&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-skype&quot;&gt;&lt;/i&gt;&lt;a href=&quot;skype:shapovala&quot; rel=&quot;nofollow&quot; title=&quot;&quot;&gt;shapovala&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-phone-square&quot;&gt;&lt;/i&gt;&lt;a href=&quot;tel:+380638576392&quot;&gt;(063)-857-63-92&lt;/a&gt;&lt;/li&gt;
+                                &lt;/ul&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;contact-form&quot;&gt;
+                                &lt;h2&gt;Контактна форма&lt;/h2&gt;
+                                   (% simplec: formlang = ua %)
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>

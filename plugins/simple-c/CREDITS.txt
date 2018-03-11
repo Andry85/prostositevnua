@@ -1,0 +1,30 @@
+IMPORTANT: This is likely to be the last version of this plugin, as I'm going to 
+collaborate with Nicolas Liautaud on the evolution of his p01-contact plugin, 
+which will likely be named FormSimple. Stay tuned!
+================================================================================
+
+Many thanks to Nicolas Liautaud <contact@nliautaud.fr> for creating p01-contact,
+(a plugin for the GetSimple CMS system), which I forked to create this plugin,
+named simple-contact: thank you Nicolas also for sharing your code under the MIT
+License terms allowing me to modify it and share my modifications.
+
+The original p01-contact contained the work of different other people who have
+helped him translating the plugin into different languages. The current language
+files have been already modified and will eventually be extended further on,
+for that reason I dedided to move the credits here.
+
+Credits for the original translations of p01-contact go to:
+    Martin Köhler (German)
+    Nicolas Liautaud (English and French)
+    Carlos Navarro (Spanish)
+    Nicola Sarti (Italian)
+    Thomas Stolwijk (Dutch)
+    Stanislav Ulver (Russian)
+    Göran Söderberg (Swedish)
+
+I will eventually add more credits here for anybody willing to help me translate
+this plugin by adding new languages or completing the existing ones.
+
+Thank you for your attention,
+bests,
+Francesco Simone Carta <entuland@gmail.com>

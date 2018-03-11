@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 29 Jun 2015 12:45:58 +0300</pubDate><title><![CDATA[Webtransfer]]></title><url><![CDATA[webtransfer]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Webtranswer]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Webtranswer&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/webtranswer-big.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Клиент:&lt;/b&gt;
+                                            &lt;span&gt;Webtransfer&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Дата:&lt;/b&gt;
+                                            &lt;span&gt;20/06/2015&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Информация:&lt;/b&gt;
+                                            &lt;span&gt;Социальная кредитная сеть Webtransfer&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.htmlverstka.biz/portfolioverstka/webtranswer-html/&quot; title=&quot;&quot;&gt;Посмотреть проект&lt;/a&gt;&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                    &lt;p&gt;Верстка Landing Page для кредитной сети Webtransfer. Среди технологий использовались Html5, Css3, jQuery. &lt;/p&gt;
+                                    &lt;p&gt;Верстка страницы сделана с помощью фреймворка twitter bootstrap и являться адаптивной, на главной странице сделан слайдер.&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

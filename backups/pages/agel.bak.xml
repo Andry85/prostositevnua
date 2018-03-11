@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 13:57:20 +0300</pubDate><title><![CDATA[AGEL]]></title><url><![CDATA[agel]]></url><meta><![CDATA[Agel]]></meta><metad><![CDATA[Магазин лечебного питания]]></metad><menu><![CDATA[AGEL]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Agel&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/02-big.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Клиент:&lt;/b&gt;
+                                            &lt;span&gt;Agel&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Дата:&lt;/b&gt;
+                                            &lt;span&gt;12/01/2015&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Информация:&lt;/b&gt;
+                                            &lt;span&gt;Магазин лечебного питания&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://htmlverstka.biz/portfolioverstka/agel-html/&quot; title=&quot;&quot;&gt;Посмотреть проект&lt;/a&gt;&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                    &lt;p&gt;Магазин лечебного питания Agel сверстан на фреймворке Twitter Bootstrap. При разработке разметки применялась css анимация с помощью wow плагин. &lt;/p&gt;
+                                    &lt;p&gt;Верстка этого лендинга включает обработку формы заказа.&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[11]]></menuOrder></item>

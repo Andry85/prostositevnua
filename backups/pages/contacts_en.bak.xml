@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 16:03:49 +0300</pubDate><title><![CDATA[Contacts]]></title><url><![CDATA[contacts_en]]></url><meta><![CDATA[Contact Us]]></meta><metad><![CDATA[Contact Us]]></metad><menu><![CDATA[Contacts]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Contacts&lt;/h1&gt;
+                    &lt;div class=&quot;contacts&quot;&gt;
+                        &lt;div class=&quot;map-outer&quot;&gt;
+                            &lt;div class=&quot;map&quot;&gt;
+                                &lt;div id=&quot;map&quot;&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;contact-inner&quot;&gt;
+                            &lt;div class=&quot;contact-info&quot;&gt;
+                                &lt;h2&gt;Contact Information&lt;/h2&gt;
+                                &lt;ul class=&quot;contact-list&quot;&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailtoo:htmlverstka.biz@gmail.com&quot; rel=&quot;nofollow&quot; title=&quot;htmlverstka.biz@gmail.com&quot;&gt;htmlverstka.biz@gmail.com&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-skype&quot;&gt;&lt;/i&gt;&lt;a href=&quot;skype:shapovala&quot; rel=&quot;nofollow&quot; title=&quot;&quot;&gt;shapovala&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-chain-broken&quot;&gt;&lt;/i&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.free-lance.ru/users/merr&quot; rel=&quot;nofollow&quot; title=&quot;&quot;&gt;http://www.free-lance.ru/users/merr&lt;/a&gt;&lt;/li&gt;
+                                &lt;/ul&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;contact-form&quot;&gt;
+                                &lt;h2&gt;Contact form&lt;/h2&gt;
+                                 (% simplec: formlang = en %)
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private></item>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 13:49:21 +0300</pubDate><title><![CDATA[About Us]]></title><url><![CDATA[about_en]]></url><meta><![CDATA[About Us]]></meta><metad><![CDATA[A few words about what we do]]></metad><menu><![CDATA[About]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;About Us&lt;/h1&gt;
+                    &lt;article class=&quot;text-inner&quot;&gt;
+                        &lt;figure&gt;
+                            &lt;img src=&quot;/theme/general/uploads/about.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                        &lt;/figure&gt;
+                        &lt;div class=&quot;text-inside&quot;&gt;
+                            &lt;div class=&quot;text-inside-inner&quot;&gt;
+                                &lt;h2&gt;HTML coding sites of any complexity&lt;/h2&gt;
+                                &lt;p&gt; Html site layout  - it is hard work that requires human knowledge in a rapidly changing information age, as well as patience and perseverance.  Our extensive experience guarantees a competent, professional approach! For several years coding models, accumulated a lot of knowledge and experience in &amp; nbsp; markup projects  any complexity, whether a page is a stub, or multiple sites with javascript functionality and rubber structure. &lt;/ p&gt;
+&lt;p&gt;Competent html coding site  at first glance it is a simple labor, so think of programmers, designers, SEOs, but when you have them set to work, then they realize that this is not a trivial task, it is better to convey a professional than themselves wrestle with cross-browser compatibility. &lt;/ p&gt;
+&lt;dl class = &quot;dl-list&quot;&gt;
+&lt;dt&gt;
+The advantage of our work: &lt;/dt&gt;
+&lt;dd&gt;
+&amp;bull; high quality; &lt;/dd&gt;
+&lt;dd&gt;
+&amp;bull; affordable prices; &lt;/dd&gt;
+&lt;dd&gt;
+&amp;bull; deadlines &amp; nbsp; &lt;/dd&gt;
+&lt;dd&gt;
+&amp;bull; a great experience; &lt;/dd&gt;
+&lt;dd&gt;
+&amp;bull; reliable reputation. &lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;In this paper, we use advanced technology html coding such as block layout of the website, HTML5 + CSS3, flex-box layout, JS, jQuery, CUFON / Font @ face, Microformats, Resizable Fonts, Custom Forms, Scrol, Twitter Bootstrap, Less, Svn , adaptability. This ensures that over time, your page will be displayed as well &amp; nbsp; the latest versions of browsers (Internet Explorer, Mozilla Firefox, Opera, Safari, Chrome). &lt;/ p&gt;
+
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/article&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private></item>

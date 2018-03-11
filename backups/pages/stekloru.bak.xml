@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jun 2015 13:59:33 +0300</pubDate><title><![CDATA[STEKLORU]]></title><url><![CDATA[stekloru]]></url><meta><![CDATA[STEKLORU]]></meta><metad><![CDATA[Бесплатный сервис заявок на окна]]></metad><menu><![CDATA[STEKLORU]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;STEKLO.RU&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/12-big.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Клиент:&lt;/b&gt;
+                                            &lt;span&gt;STEKLO.RU&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Дата:&lt;/b&gt;
+                                            &lt;span&gt;04/01/2013&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;b&gt;Информация:&lt;/b&gt;
+                                            &lt;span&gt;Бесплатный сервис заявок на окна&lt;/span&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;&lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://htmlverstka.biz/portfolioverstka/steklo-html/&quot; title=&quot;&quot;&gt;Посмотреть проект&lt;/a&gt;&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                    &lt;p&gt;Steklo.ru — место, где вы найдете много полезной информации по компаниям-производтелям окон и рекомендации по покупке.&lt;/p&gt;
+&lt;p&gt;Верстка сайта сделана с многими элементами скриптов, такими как слайдеры, табы, custom input и много другого.&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[1]]></menuOrder></item>

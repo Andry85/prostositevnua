@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 02 Aug 2015 08:22:25 +0000</pubDate><title><![CDATA[Адаптивность]]></title><url><![CDATA[adaptivnost]]></url><meta><![CDATA[Адаптивная верстка сайта]]></meta><metad><![CDATA[Делаем адаптивную верстку сайта]]></metad><menu><![CDATA[Адаптивность]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
+                    &lt;h1&gt;Адаптивность&lt;/h1&gt;
+                    &lt;div class=&quot;product-wrap&quot;&gt;
+                            &lt;figure class=&quot;product-pic&quot;&gt;
+                                &lt;img src=&quot;/theme/general/uploads/adapt.jpg&quot; alt=&quot;Адаптивная верстка сайта&quot; title=&quot;Адаптивная верстка&quot;&gt;
+                            &lt;/figure&gt;
+                            &lt;div class=&quot;product-info&quot;&gt;
+                                &lt;div class=&quot;product-info-inner&quot;&gt;
+                                    &lt;h2&gt;Адаптивная верстка сайта&lt;/h2&gt;
+                                    &lt;p&gt;&lt;strong&gt;Адаптивная верстка сайта&lt;/strong&gt; - это обычная верстка, плюс встроение в стили @media запросов, с помощью которых ваш сайт будет выглядеть хорошо как на настольном пк, так и на планшете или на мобильных телефонах.&lt;/p&gt;
+                                    &lt;p&gt;Ранее для мобильной версии делали совсем другой сайт, но в последнее время появилась технология которая называется (Responsive Design) и с помощью ее можно на одном сайте делать так, чтоб он работал на всех устройствах.&lt;/p&gt;
+                                    &lt;p&gt;&lt;strong&gt;Адаптивная верстка сайта&lt;/strong&gt; - это прекрасная альтернатива резиновой, так как резиновая структура сайта в основном подходит для пк и не годится для других цифровых устройств.&lt;/p&gt;
+                                    &lt;p&gt;Пример - адаптивная верстка css:&amp;nbsp;&lt;a href=&quot;http://htmlverstka.biz/portfolioverstka/agel-html/&quot; rel=&quot;nofollow&quot; title=&quot;адаптивная верстка сайта&quot;&gt;agel&lt;/a&gt;&lt;/p&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[15]]></menuOrder></item>
