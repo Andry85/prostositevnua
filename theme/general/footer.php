@@ -56,7 +56,7 @@
                         </div> 
                     </div>
                     <div class="popap-body">
-                        <form id="application" action="http://prostosait.com.ua/theme/general/application.php" method="POST" name="application">
+                        <form id="application" action="http://www.prostosite.vn.ua/theme/general/application.php" method="POST" name="application">
                                 
                                 <div class="form-block">
                                     <h2>БАЗОВАЯ ИНФОРМАЦИЯ</h2>
@@ -115,9 +115,6 @@
                                                         <select name="typeofsite" class="chosen">
                                                             <option selected value="Landing Page">Landing Page</option>
                                                             <option value="Сайт - Визитка">Сайт - Визитка</option>
-                                                            <!--<option value="Корпоративний сайт">Корпоративний сайт</option>
-                                                            <option value="Интернет магазин">Интернет магазин</option>
-                                                            -->
                                                         </select>
                                                     </div> 
                                                 </div>
@@ -130,11 +127,9 @@
                                                     <div class="chosen-wrap">
                                                         <select name="sectionofsite[]" class="chosen" multiple>
                                                           <option value="Новости" selected>Новости</option>
-                                                          <option value="Каталог продукции">Каталог продукции</option>
                                                           <option value="текстовые разделы (профиль компании, история, FAQ и так далее)">текстовые разделы (профиль компании, история, FAQ и так далее)</option>
-                                                          <option value="раздел со скачиваемыми файлами или документами">раздел со скачиваемыми файлами или документами</option>
+                                                          <option value="Каталог продукции">Каталог продукции</option>
                                                           <option value="контактная информация, форма обратной связи, карта">контактная информация, форма обратной связи, карта</option>
-                                                          <option value="внутренняя зона для клиентов/партнёров/сотрудников">внутренняя зона для клиентов/партнёров/сотрудников</option>
                                                         </select>
                                                     </div> 
                                                 </div>

@@ -81,9 +81,9 @@ $msg .= "</body></html>";
 
 // отправка сообщения
 if(@mail($sendto, $subject, $msg, $headers)) {
-	echo "<center><img src='http://prostosait.com.ua/theme/general/images/spasibo.png'></center>";
+	echo "<center><img src='http://www.prostosite.vn.ua/theme/general/images/spasibo.png'></center>";
 } else {
-	echo "<center><img src='http://prostosait.com.ua/theme/general/images/ne-otpravleno.png'></center>";
+	echo "<center><img src='http://www.prostosite.vn.ua/theme/general/images/ne-otpravleno.png'></center>";
 }
 
 ?>

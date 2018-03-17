@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Sun, 11 Mar 2018 19:05:37 +0200</pubDate><title><![CDATA[Создание сайтов Винница в сжатие сроки]]></title><url><![CDATA[index]]></url><meta><![CDATA[Создание сайтов винница]]></meta><metad><![CDATA[ПростоСайт - студия веб дизайна в Виннице. Подходим индивидуально для каждого клиента для поиска лучшего интернет решения.]]></metad><menu><![CDATA[Главная]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template_index.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+<item><pubDate>Sat, 17 Mar 2018 11:17:32 +0200</pubDate><title><![CDATA[Создание сайтов Винница в сжатие сроки]]></title><url><![CDATA[index]]></url><meta><![CDATA[Создание сайтов винница]]></meta><metad><![CDATA[ПростоСайт - студия веб дизайна в Виннице. Подходим индивидуально для каждого клиента для поиска лучшего интернет решения.]]></metad><menu><![CDATA[Главная]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template_index.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
 
                 &lt;div class=&quot;titling&quot;&gt;
                     &lt;h2&gt;Наши последние работы&lt;/h2&gt;
@@ -55,28 +55,28 @@
                     &lt;/li&gt;
 
 &lt;li class=&quot;red&quot;&gt;
-                        &lt;a class=&quot;pic&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://htmlverstka.biz/&quot; title=&quot;&quot;&gt;&lt;img src=&quot;theme/general/uploads/02.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+                        &lt;a class=&quot;pic&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://ok.in.ua/&quot; title=&quot;&quot;&gt;&lt;img src=&quot;theme/general/uploads/ok-small.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
                         &lt;div class=&quot;portfolio-text&quot;&gt;
                             &lt;span class=&quot;zoom-icon&quot;&gt;
-                                &lt;a class=&quot;html5lightbox&quot; href=&quot;theme/general/uploads/02-big.jpg&quot; title=&quot;&quot;&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                &lt;a class=&quot;html5lightbox&quot; href=&quot;theme/general/uploads/ok-big.jpg&quot; title=&quot;&quot;&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;
                             &lt;/span&gt;
-                            &lt;h3&gt;htmlverstka.biz&lt;/h3&gt;
+                            &lt;h3&gt;ok.in.ua&lt;/h3&gt;
                             &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Клиент:&lt;/b&gt;
-                                    &lt;span&gt;htmlverstka.biz&lt;/span&gt;
+                                    &lt;span&gt;ok.in.ua&lt;/span&gt;
                                 &lt;/li&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Дата:&lt;/b&gt;
-                                    &lt;span&gt;12/03/2015&lt;/span&gt;
+                                    &lt;span&gt;14/02/2018&lt;/span&gt;
                                 &lt;/li&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Информация:&lt;/b&gt;
-                                    &lt;span&gt;Профессиональная html верстка сайтов&lt;/span&gt;
+                                    &lt;span&gt;Курсы английского языка&lt;/span&gt;
                                 &lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/div&gt;
-                        &lt;a class=&quot;more&quot; href=&quot;htmlverstka&quot; title=&quot;&quot;&gt;Читать Далее&lt;/a&gt;
+                        &lt;a class=&quot;more&quot; href=&quot;ok&quot; title=&quot;&quot;&gt;Читать Далее&lt;/a&gt;
                     &lt;/li&gt;
                 &lt;/ul&gt;
 

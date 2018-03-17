@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Sun, 11 Mar 2018 18:57:37 +0200</pubDate><title><![CDATA[Створення сайтів Вінниця в стислі терміни]]></title><url><![CDATA[index_ua]]></url><meta><![CDATA[Створення сайтів вінниця]]></meta><metad><![CDATA[ПростоСайт - студія веб дизайну в Вінниці. Підходимо індивідуально для кожного клієнта для пошуку кращого інтернет рішення.]]></metad><menu><![CDATA[Головна]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+<item><pubDate>Sun, 11 Mar 2018 19:11:32 +0200</pubDate><title><![CDATA[Створення сайтів Вінниця в стислі терміни]]></title><url><![CDATA[index_ua]]></url><meta><![CDATA[Створення сайтів вінниця]]></meta><metad><![CDATA[ПростоСайт - студія веб дизайну в Вінниці. Підходимо індивідуально для кожного клієнта для пошуку кращого інтернет рішення.]]></metad><menu><![CDATA[Головна]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
 
                 &lt;div class=&quot;titling&quot;&gt;
                     &lt;h2&gt;Наші останні роботи&lt;/h2&gt;
@@ -30,28 +30,28 @@
                         &lt;a class=&quot;more&quot; href=&quot;dobze_ua&quot; title=&quot;&quot;&gt;Читати далі&lt;/a&gt;
                     &lt;/li&gt;
  &lt;li class=&quot;green&quot;&gt;
-                        &lt;a class=&quot;pic&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://2nf.com.ua/&quot; title=&quot;&quot;&gt;&lt;img src=&quot;theme/general/uploads/2nf-small.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+                        &lt;a class=&quot;pic&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://mehinvest.com.ua/&quot; title=&quot;&quot;&gt;&lt;img src=&quot;theme/general/uploads//mehinvest-small.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
                         &lt;div class=&quot;portfolio-text&quot;&gt;
                             &lt;span class=&quot;zoom-icon&quot;&gt;
-                                &lt;a class=&quot;html5lightbox&quot; href=&quot;theme/general/uploads/2nf-big.jpg&quot; title=&quot;&quot;&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                &lt;a class=&quot;html5lightbox&quot; href=&quot;theme/general/uploads/mehinvest-big.jpg&quot; title=&quot;&quot;&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;
                             &lt;/span&gt;
-                            &lt;h3&gt;2nf.com.ua&lt;/h3&gt;
+                            &lt;h3&gt;mehinvest.com.ua&lt;/h3&gt;
                             &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Клієнт:&lt;/b&gt;
-                                    &lt;span&gt;Сергей&lt;/span&gt;
+                                    &lt;span&gt;Mehinvest&lt;/span&gt;
                                 &lt;/li&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Дата:&lt;/b&gt;
-                                    &lt;span&gt;15/03/2016&lt;/span&gt;
+                                    &lt;span&gt;08/03/2018&lt;/span&gt;
                                 &lt;/li&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Інформація:&lt;/b&gt;
-                                    &lt;span&gt;МУРОВАНОКУРИЛІВЕЦЬКИЙ ЦЕГЕЛЬНИЙ ЗАВОД&lt;/span&gt;
+                                    &lt;span&gt;ТОВ &quot;МЕХ ІНВЕСТ&quot;&lt;/span&gt;
                                 &lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/div&gt;
-                        &lt;a class=&quot;more&quot; href=&quot;2nf&quot; title=&quot;&quot;&gt;Читати далі&lt;/a&gt;
+                        &lt;a class=&quot;more&quot; href=&quot;mehinvest_ua&quot; title=&quot;&quot;&gt;Читати далі&lt;/a&gt;
                     &lt;/li&gt;
      
 
